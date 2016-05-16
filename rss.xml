@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Looking Beyond the Obvious since 1987]]></title>
         <description><![CDATA[Looking Beyond the Obvious since 1987]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-marketing-counselors/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 May 2016 17:02:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 May 2016 17:04:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-marketing-counselors/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ddf9805c-4763-408d-9ebe-da1683aa177a.jpg">]]></description>
-            <link>undefined96a3699b-bca7-4ecd-a9d1-43d35825d0fc/index.html</link>
+            <link>https://thegrid.ai/the-marketing-counselors/96a3699b-bca7-4ecd-a9d1-43d35825d0fc/index.html</link>
             <guid isPermaLink="false">96a3699b-bca7-4ecd-a9d1-43d35825d0fc</guid>
-            <pubDate>Mon, 16 May 2016 17:02:56 GMT</pubDate>
+            <pubDate>Mon, 16 May 2016 17:04:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
